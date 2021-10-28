@@ -21,8 +21,6 @@ class ServerBox  extends Component {
             color = 'red'
         }
 
-
-
         this.setState({color : color})
     }
 
